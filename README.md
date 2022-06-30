@@ -4,7 +4,7 @@ Python编程：从入门到实践：https://github.com/YeJiu97/PythonCrashCourse
 
 Python 100 Days：https://github.com/YeJiu97/PythonPro100Days
 
-Python for Absolute Beginners:https://github.com/YeJiu97/PythonforAbsoluteBeginnersNote
+Python for Absolute Beginners：https://github.com/YeJiu97/PythonforAbsoluteBeginnersNote
 
 ### C++语言
 
