@@ -13,7 +13,7 @@ C++语法笔记：https://github.com/YeJiu97/CPlusPlusNote
 
 ### 数据结构与算法
 
-算法图解：https://github.com/YeJiu97/CPlusPlusNote
+算法图解：https://github.com/YeJiu97/GrokkingAlgorithmsNote
 
 
 ### 数据科学
