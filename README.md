@@ -16,6 +16,8 @@ C++语法笔记：https://github.com/YeJiu97/CPlusPlusNote
 
 算法图解：https://github.com/YeJiu97/GrokkingAlgorithmsNote
 
+Python数据结构与算法：https://github.com/YeJiu97/DataStructuresAlgorithmsPythonNote
+
 
 ### 数据科学
 
