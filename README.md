@@ -18,6 +18,8 @@ C++语法笔记：https://github.com/YeJiu97/CPlusPlusNote
 
 Python数据结构与算法：https://github.com/YeJiu97/DataStructuresAlgorithmsPythonNote
 
+LintCode题解：https://github.com/YeJiu97/LintCodeSolutions
+
 
 ### 数据科学
 
