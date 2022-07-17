@@ -1,26 +1,27 @@
-### Python语言
+## Where can find me
+
+Bilibili: https://space.bilibili.com/1963627?spm_id_from=333.1007.0.0
+
+LintCode: https://www.lintcode.com/user/%E5%A4%9C%E4%B9%85
+
+LeetCode: https://leetcode.cn/u/wu-du-x/
+
+## Python
 
 Python编程：从入门到实践：https://github.com/YeJiu97/PythonCrashCourseNote
 
-Python for Absolute Beginners：https://github.com/YeJiu97/PythonforAbsoluteBeginnersNote
+PythonforAbsoluteBeginnersNote：https://github.com/YeJiu97/PythonforAbsoluteBeginnersNote
 
-Python 100 Days：https://github.com/YeJiu97/PythonPro100Days
+Python圣经：https://github.com/YeJiu97/ThePythonBibleNote
 
+Python 100 天训练营：https://github.com/YeJiu97/PythonPro100Days
 
-### C++语言
+## 数据结构与算法
 
-C++语法笔记：https://github.com/YeJiu97/CPlusPlusNote
+图解算法 笔记：https://github.com/YeJiu97/GrokkingAlgorithmsNote
 
+Data Structures & Algorithms：https://github.com/YeJiu97/DataStructuresAlgorithmsPythonNote
 
-### 数据结构与算法
+Bilibili算法40课：https://github.com/YeJiu97/BilibiliAlgorithm40LessonsNote
 
-算法图解：https://github.com/YeJiu97/GrokkingAlgorithmsNote
-
-Python数据结构与算法：https://github.com/YeJiu97/DataStructuresAlgorithmsPythonNote
-
-
-### 数据科学
-
-B战人工智能：https://github.com/YeJiu97/BilibiliAINote
-
-DataAnalysisNote：https://github.com/YeJiu97/DataAnalysisNote
+终极编码面试训练营：https://github.com/YeJiu97/MasterTheCodingInterviewDataStructuresAlgorithms
