@@ -1,10 +1,10 @@
 ## Where can find me
 
-Bilibili: https://space.bilibili.com/1963627?spm_id_from=333.1007.0.0
+Bilibili：https://space.bilibili.com/1963627?spm_id_from=333.1007.0.0
 
-LintCode: https://www.lintcode.com/user/%E5%A4%9C%E4%B9%85
+LintCode：https://www.lintcode.com/user/%E5%A4%9C%E4%B9%85
 
-LeetCode: https://leetcode.cn/u/wu-du-x/
+LeetCode：https://leetcode.cn/u/wu-du-x/
 
 ## Python
 
