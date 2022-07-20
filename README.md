@@ -25,3 +25,10 @@ Data Structures & Algorithms：https://github.com/YeJiu97/DataStructuresAlgorith
 Bilibili算法40课：https://github.com/YeJiu97/BilibiliAlgorithm40LessonsNote
 
 终极编码面试训练营：https://github.com/YeJiu97/MasterTheCodingInterviewDataStructuresAlgorithms
+
+
+## 数据科学
+
+深入浅出Pandas：利用Python进行数据处理与分析：https://github.com/YeJiu97/DiveIntoPandasNote
+
+Python Programming: Machine Learning, Deep Learning：https://github.com/YeJiu97/MachineLearningDeepLearningNote
