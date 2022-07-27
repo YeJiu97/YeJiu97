@@ -8,6 +8,8 @@ Python圣经：https://github.com/YeJiu97/ThePythonBibleNote
 
 Python 100 天训练营：https://github.com/YeJiu97/PythonPro100Days
 
+Effective Python 笔记：https://github.com/YeJiu97/EffectivePythonNote
+
 ## C++
 
 AcWingCPlusPlusGrammarNote：https://github.com/YeJiu97/AcWingCPlusPlusGrammarNote
