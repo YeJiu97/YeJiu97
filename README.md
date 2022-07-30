@@ -30,6 +30,8 @@ Bilibili算法40课：https://github.com/YeJiu97/BilibiliAlgorithm40LessonsNote
 
 ## 数据科学
 
+数据科学的统计编程：https://github.com/YeJiu97/StatisticalProgrammingForDataScience
+
 深入浅出Pandas：利用Python进行数据处理与分析：https://github.com/YeJiu97/DiveIntoPandasNote
 
 Python Programming: Machine Learning, Deep Learning：https://github.com/YeJiu97/MachineLearningDeepLearningNote
