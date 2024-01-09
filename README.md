@@ -22,7 +22,7 @@ Goal: Data Scientist
 - R-crash-courses: https://github.com/YeJiu97/R-crash-courses
 - R-programming-AZ-for-data-science-with-real-exercises: https://github.com/YeJiu97/R-programming-AZ-for-data-science-with-real-exercises
 - introduction-to-R-data-analysis-and-data-mining: https://github.com/YeJiu97/introduction-to-R-data-analysis-and-data-mining
-- 
+- R-for-data-science: https://github.com/YeJiu97/R-for-data-science
 
 #### Data Science
 
