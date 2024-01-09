@@ -2,9 +2,14 @@
 
 My Name: Wangjun SHEN
 
-Education: Master of Data Science in The university of South Australia
+Education: Master of Data Science in The University of South Australia
 
 Goal: Data Scientist
+
+### My Repositories
+#### Python
+
+- python-crash-courses: https://github.com/YeJiu97/python-crash-courses
 
 <!--
 **YeJiu97/YeJiu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
