@@ -1,7 +1,9 @@
 ### About ME 👋
 
 My Name: Wangjun SHEN
+
 Education: Master of Data Science in The university of South Australia
+
 Goal: Data Scientist
 
 <!--
