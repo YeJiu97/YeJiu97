@@ -1,4 +1,8 @@
-### Hi there 👋
+### About ME 👋
+
+My Name: Wangjun SHEN
+Education: Master of Data Science in The university of South Australia
+Goal: Data Scientist
 
 <!--
 **YeJiu97/YeJiu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
