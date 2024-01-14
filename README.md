@@ -6,6 +6,8 @@ Education: Master of Data Science in The University of South Australia
 
 Goal: Data Scientist
 
+My Skills: Python, R, Machine Learning, Deep Learning, Casual Inference
+
 ### My Repositories
 #### Python
 - [python-crash-courses](https://github.com/YeJiu97/python-crash-courses)
