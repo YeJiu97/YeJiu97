@@ -28,7 +28,8 @@ My Skills: Python, R, Machine Learning, Deep Learning, Casual Inference
 | [R-programming-AZ-for-data-science-with-real-exercises](https://github.com/YeJiu97/R-programming-AZ-for-data-science-with-real-exercises) | R Programming | Completed   | ⭐⭐⭐        |
 | [introduction-to-R-data-analysis-and-data-mining](https://github.com/YeJiu97/introduction-to-R-data-analysis-and-data-mining) | R Programming | In Progress | ⭐⭐⭐⭐       |
 | [R-for-data-science](https://github.com/YeJiu97/R-for-data-science) | R Programming | In Progress | ⭐⭐⭐⭐⭐      |
-| [coursera-probability](https://github.com/YeJiu97/coursera-probability) | Mathematics   | Completed   | ⭐⭐⭐⭐       |
+| [coursera-probability](https://github.com/YeJiu97/coursera-probability) | Mathematics   | Completed   | ⭐⭐⭐        |
+| [doing-math-with-python](https://github.com/YeJiu97/doing-math-with-python) | Mathematics   | In Progress | ⭐⭐⭐⭐       |
 | [python-for-data-science-a-hands-on-introduction](https://github.com/YeJiu97/python-for-data-science-a-hands-on-introduction) | Data Science  | Completed   | ⭐⭐⭐        |
 | [data-visualization-learning-notes](https://github.com/YeJiu97/data-visualization-learning-notes) | Data Science  | Completed   | ⭐⭐⭐        |
 | [data-science-bookcamp-with-five-python-projects](https://github.com/YeJiu97/data-science-bookcamp-with-five-python-projects) | Data Science  | In Progress | ⭐⭐⭐⭐⭐      |
