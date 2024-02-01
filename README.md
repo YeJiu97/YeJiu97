@@ -10,7 +10,11 @@ My Skills: Python, R, Machine Learning, Deep Learning, Casual Inference
 
 ### Reborn in 7 Years
 
-
+| Year/Title                                                   | Category | Status      |
+| ------------------------------------------------------------ | -------- | ----------- |
+| [What I want to do during the next 7 years](https://github.com/YeJiu97/reborn-in-7-years/blob/main/%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%94%9F%E4%B8%83%E5%B9%B4%E8%AE%A1%E5%88%92.md) | Outline  | Completed   |
+| [2024 Yearly Plan](https://github.com/YeJiu97/reborn-in-7-years/blob/main/2024%E5%B9%B4%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92.md) | Outline  | In Progress |
+| [2024 Yearly Plan Review](https://github.com/YeJiu97/reborn-in-7-years/blob/main/2024%E5%B9%B4%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92%E5%AE%8C%E6%88%90%E6%83%85%E5%86%B5.md) | Review   | In Progress |
 
 ### My Repositories
 
@@ -28,8 +32,8 @@ My Skills: Python, R, Machine Learning, Deep Learning, Casual Inference
 | [R-programming-AZ-for-data-science-with-real-exercises](https://github.com/YeJiu97/R-programming-AZ-for-data-science-with-real-exercises) | R Programming | Completed   | ⭐⭐⭐        |
 | [introduction-to-R-data-analysis-and-data-mining](https://github.com/YeJiu97/introduction-to-R-data-analysis-and-data-mining) | R Programming | In Progress | ⭐⭐⭐⭐       |
 | [R-for-data-science](https://github.com/YeJiu97/R-for-data-science) | R Programming | In Progress | ⭐⭐⭐⭐⭐      |
-| [coursera-probability](https://github.com/YeJiu97/coursera-probability) | Mathematics   | Completed   | ⭐⭐⭐        |
-| [doing-math-with-python](https://github.com/YeJiu97/doing-math-with-python) | Mathematics   | In Progress | ⭐⭐⭐⭐       |
+| [coursera-probability](https://github.com/YeJiu97/coursera-probability) | Mathematics   | Completed   | ⭐⭐⭐⭐       |
+| [doing-math-with-python](https://github.com/YeJiu97/doing-math-with-python) | Mathematics   | In Progress | ⭐⭐⭐        |
 | [python-for-data-science-a-hands-on-introduction](https://github.com/YeJiu97/python-for-data-science-a-hands-on-introduction) | Data Science  | Completed   | ⭐⭐⭐        |
 | [data-visualization-learning-notes](https://github.com/YeJiu97/data-visualization-learning-notes) | Data Science  | Completed   | ⭐⭐⭐        |
 | [data-science-bookcamp-with-five-python-projects](https://github.com/YeJiu97/data-science-bookcamp-with-five-python-projects) | Data Science  | In Progress | ⭐⭐⭐⭐⭐      |
