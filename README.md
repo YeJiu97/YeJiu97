@@ -21,9 +21,9 @@ My Skills: Python, R, Machine Learning, Deep Learning, Casual Inference
 | Respository                                                  | Category      | Status      | Evaluation |
 | ------------------------------------------------------------ | ------------- | ----------- | ---------- |
 | [python-crash-courses](https://github.com/YeJiu97/python-crash-courses) | Python        | Completed   | ⭐⭐⭐⭐⭐      |
-| [python-for-absolute-beginners](https://github.com/YeJiu97/python-for-absolute-beginners) | Python        | Completed   | ⭐⭐⭐        |
+| [python-for-absolute-beginners](https://github.com/YeJiu97/python-for-absolute-beginners) | Python        | Completed   | ⭐⭐⭐⭐       |
 | [the-modern-python-3-bootcamp](https://github.com/YeJiu97/the-modern-python-3-bootcamp) | Python        | Completed   | ⭐⭐⭐        |
-| [the-python-bible-notes](https://github.com/YeJiu97/the-python-bible-notes) | Python        | Completed   | ⭐⭐⭐⭐       |
+| [the-python-bible-notes](https://github.com/YeJiu97/the-python-bible-notes) | Python        | Completed   | ⭐⭐⭐        |
 | [python-11-lessons](https://github.com/YeJiu97/python-11-lessons) | Python        | Completed   | ⭐⭐         |
 | [practice-python-with-100-python-exercises](https://github.com/YeJiu97/practice-python-with-100-python-exercises) | Python        | Completed   | None       |
 | [invent-your-own-computer-games-with-python](https://github.com/YeJiu97/invent-your-own-computer-games-with-python) | Python        | Completed   | ⭐⭐⭐        |
