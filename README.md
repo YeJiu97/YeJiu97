@@ -13,12 +13,12 @@
 **Skills:**
 
 - Programming Language: Python, R, SQL
-- Field: Machine learning, deep learning, causal inference
+- Field: Machine Learning, Deep Learning, Natural Language Processing
 
 **Where can find me**
 
 - Personal Blog: https://yejiu97.github.io/
-- E-mail Address: Will Provide Soon
+- E-mail Address: wangjun.code@outlook.com
 
 ### The first seven-year life plan
 
@@ -42,7 +42,6 @@
 | [deep-learning-from-scratch](https://github.com/YeJiu97/deep-learning-from-scratch) | Deep Learning    | In Progress | ⭐⭐⭐⭐⭐      |
 | [python-for-data-science-a-hands-on-introduction](https://github.com/YeJiu97/python-for-data-science-a-hands-on-introduction) | Data Science     | Completed   | ⭐⭐         |
 | [data-science-bookcamp-with-five-python-projects](https://github.com/YeJiu97/data-science-bookcamp-with-five-python-projects) | Data Science     | In Progress | ⭐⭐⭐⭐⭐      |
-| [kaggle-practice](https://github.com/YeJiu97/kaggle-practice) | Data Science     | In Progress | ⭐⭐⭐⭐⭐      |
 
 
 
