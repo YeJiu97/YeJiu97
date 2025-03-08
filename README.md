@@ -7,7 +7,7 @@
 
 **Goal:** 
 
-- Primary target: Data scientists
+- Primary target: Data scientists (ML/LLM Major)
 - Secondary Target: Illustrator
 
 **Skills:**
@@ -18,15 +18,7 @@
 **Where can find me**
 
 - Personal Blog: https://yejiu97.github.io/
-- E-mail Address: wangjun.code@outlook.com
-
-### The first seven-year life plan
-
-| Repositories                                                 | Category | Status      |
-| ------------------------------------------------------------ | -------- | ----------- |
-| [7-year Full Plan](https://github.com/YeJiu97/reborn-in-7-years/blob/main/%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%94%9F%E4%B8%83%E5%B9%B4%E8%AE%A1%E5%88%92.md) | Overview | ❓           |
-| [2024 Plan](https://github.com/YeJiu97/reborn-in-7-years/blob/main/2024%E5%B9%B4%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92.md) | Overview | In Progress |
-| [2024 Plan Review](https://github.com/YeJiu97/reborn-in-7-years/blob/main/2024%E5%B9%B4%E4%BB%BB%E5%8A%A1%E8%AE%B0%E5%BD%95.md) | Review   | In Progress |
+- E-mail Address: yejiuwork@163.com
 
 ### My Main Repositories
 
