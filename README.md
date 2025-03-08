@@ -18,7 +18,7 @@
 **Skills:**
 
 - Programming Language: Python, R, SQL
-- Field: Machine Learning, Deep Learning, Natural Language Processing
+- Major Field: Machine Learning, Deep Learning, Natural Language Processing
 
 **Where can find me**
 
