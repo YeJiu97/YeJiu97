@@ -3,7 +3,12 @@
 **Education:** 
 
 - Master of Data Science in The University of South Australia
-- Bachelor of Computer Science in the University of Adelaide 
+- Bachelor of Computer Science in the University of Adelaide
+
+**Work**
+
+- Company: Bank of HangzhouConsumer Finance Co.,Ltd
+- Role: Machine Engineering of Risk Control
 
 **Goal:** 
 
