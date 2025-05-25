@@ -17,8 +17,15 @@
 
 **Skills:**
 
-- Programming Language: Python, R, SQL
+- Programming Language: Python, R, SQL, SAS
 - Major Field: Machine Learning, Deep Learning, Natural Language Processing
+
+**Interesting Fields:**
+
+- Brain science: self-awareness, mental cognition, mindfulness
+- Painting: Neoclassicism, Rococo, Impressionism
+- Life field: evolution, evolutionary psychology, gender behaviour
+- Philosophy: existentialism, nihilism, physicalism
 
 **Where can find me**
 
@@ -27,18 +34,13 @@
 
 ### My Main Repositories
 
-| Repositories                                                 | Category         | Status      | Evaluation |
-| ------------------------------------------------------------ | ---------------- | ----------- | ---------- |
-| [python-crash-courses](https://github.com/YeJiu97/python-crash-courses) | Python           | Completed   | ⭐⭐⭐⭐⭐      |
-| [invent-your-own-computer-games-with-python](https://github.com/YeJiu97/invent-your-own-computer-games-with-python) | Python           | Completed   | ⭐⭐⭐        |
-| [introduction-to-R-data-analysis-and-data-mining](https://github.com/YeJiu97/introduction-to-R-data-analysis-and-data-mining) | R                | In Progress | ⭐⭐⭐⭐       |
-| [R-for-data-science](https://github.com/YeJiu97/R-for-data-science) | R                | In Progress | ⭐⭐⭐⭐⭐      |
-| [doing-math-with-python](https://github.com/YeJiu97/doing-math-with-python) | Mathematics      | Completed   | ⭐⭐⭐        |
-| [essential-math-for-data-science](https://github.com/YeJiu97/essential-math-for-data-science) | Mathematics      | In Progress | ⭐⭐⭐⭐       |
-| [machine-learning-bookcamp-build-a-portfolio-of-real-life-projects](https://github.com/YeJiu97/machine-learning-bookcamp-build-a-portfolio-of-real-life-projects) | Machine Learning | Completed   | ⭐⭐⭐⭐       |
-| [deep-learning-from-scratch](https://github.com/YeJiu97/deep-learning-from-scratch) | Deep Learning    | In Progress | ⭐⭐⭐⭐⭐      |
-| [python-for-data-science-a-hands-on-introduction](https://github.com/YeJiu97/python-for-data-science-a-hands-on-introduction) | Data Science     | Completed   | ⭐⭐         |
-| [data-science-bookcamp-with-five-python-projects](https://github.com/YeJiu97/data-science-bookcamp-with-five-python-projects) | Data Science     | In Progress | ⭐⭐⭐⭐⭐      |
+| Repositories                                                 | Category         | Status    | Evaluation |
+| ------------------------------------------------------------ | ---------------- | --------- | ---------- |
+| [python-crash-courses](https://github.com/YeJiu97/python-crash-courses) | Python           | Completed | ⭐⭐⭐⭐⭐      |
+| [invent-your-own-computer-games-with-python](https://github.com/YeJiu97/invent-your-own-computer-games-with-python) | Python           | Completed | ⭐⭐⭐        |
+| [doing-math-with-python](https://github.com/YeJiu97/doing-math-with-python) | Mathematics      | Completed | ⭐⭐⭐        |
+| [machine-learning-bookcamp-build-a-portfolio-of-real-life-projects](https://github.com/YeJiu97/machine-learning-bookcamp-build-a-portfolio-of-real-life-projects) | Machine Learning | Completed | ⭐⭐⭐⭐       |
+| [python-for-data-science-a-hands-on-introduction](https://github.com/YeJiu97/python-for-data-science-a-hands-on-introduction) | Data Science     | Completed | ⭐⭐         |
 
 
 
