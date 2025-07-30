@@ -5,7 +5,7 @@
 - Master of Data Science in The University of South Australia
 - Bachelor of Computer Science in the University of Adelaide
 
-**Work**
+**Work:**
 
 - Company: Bank of HangzhouConsumer Finance Co.,Ltd
 - Role: Machine Engineering of Risk Control
@@ -17,8 +17,10 @@
 
 **Skills:**
 
-- Programming Language: Python, R, SQL, SAS
-- Major Field: Machine Learning, Deep Learning, Natural Language Processing
+- Programming Language: Python, R, SQL
+- Software: VS Code, Sublime, Pycharm, RStudio
+- Major Field: Data Analysis, Supervised Learning, Data Mining
+- Scope of Exploration: Deep Learning, Reinforcement Learning, Large Language Models (LLMs), Causal Inference
 
 **Interesting Fields:**
 
