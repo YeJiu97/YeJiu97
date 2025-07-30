@@ -7,8 +7,7 @@
 
 **Work:**
 
-- Company: Bank of HangzhouConsumer Finance Co.,Ltd
-- Role: Machine Engineering of Risk Control
+- Bank of HangzhouConsumer Finance Co.,Ltd: Machine Engineering of Risk Control
 
 **Goal:** 
 
