@@ -16,8 +16,8 @@
 
 **Skills:**
 
-- Programming Language: Python, R, SQL
-- Software: VS Code, Sublime, Pycharm, RStudio
+- Major Programming Language: Python, R, SQL
+- Coding Software: VS Code, Sublime, Pycharm, RStudio
 - Major Field: Data Analysis, Supervised Learning, Data Mining
 - Scope of Exploration: Deep Learning, Reinforcement Learning, Large Language Models (LLMs), Causal Inference
 
