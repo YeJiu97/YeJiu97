@@ -2,48 +2,27 @@
 
 **Education:** 
 
-- Master of Data Science in The University of South Australia
-- Bachelor of Computer Science in the University of Adelaide
+- Master of Data Science in The University of South Australia | 南澳大利亚大学数据科学硕士
+- Bachelor of Computer Science in the University of Adelaide | 阿德莱德大学计算机科学学士
 
 **Work:**
 
-- Bank of HangzhouConsumer Finance Co.,Ltd: Machine Engineering of Risk Control
+- Bank of HangzhouConsumer Finance Co.,Ltd: Machine Engineering of Risk Control | 杭银消费金融风控建模工程师
 
 **Goal:** 
 
-- Primary target: Data scientists (ML/LLM Major)
-- Secondary Target: Illustrator
-
-**Skills:**
-
-- Major Programming Language: Python, R, SQL
-- Coding Software: VS Code, Sublime, Pycharm, RStudio
-- Major Field: Data Analysis, Supervised Learning, Data Mining
-- Scope of Exploration: Deep Learning, Reinforcement Learning, Large Language Models (LLMs), Causal Inference
+- Primary Target: Data scientists (ML/LLM Major) | 数据科学家（机器学习|大语言模型）
+- Secondary Target: Writer & Illustrator | 作家与插画家
 
 **Interesting Fields:**
 
-- Brain science: self-awareness, mental cognition, mindfulness
-- Painting: Neoclassicism, Rococo, Impressionism
-- Life field: evolution, evolutionary psychology, gender behaviour
-- Philosophy: existentialism, nihilism, physicalism
+- Brain science: self-awareness, mental cognition, mindfulness | 意识，物理主义，心灵哲学
+- Life field: evolution, evolutionary psychology, gender behaviour | 进化，进化心理学，两性博弈
 
 **Where can find me**
 
 - Personal Blog: https://yejiu97.github.io/
 - E-mail Address: yejiuwork@163.com
-
-### My Main Repositories
-
-| Repositories                                                 | Category         | Status    | Evaluation |
-| ------------------------------------------------------------ | ---------------- | --------- | ---------- |
-| [python-crash-courses](https://github.com/YeJiu97/python-crash-courses) | Python           | Completed | ⭐⭐⭐⭐⭐      |
-| [invent-your-own-computer-games-with-python](https://github.com/YeJiu97/invent-your-own-computer-games-with-python) | Python           | Completed | ⭐⭐⭐        |
-| [doing-math-with-python](https://github.com/YeJiu97/doing-math-with-python) | Mathematics      | Completed | ⭐⭐⭐        |
-| [machine-learning-bookcamp-build-a-portfolio-of-real-life-projects](https://github.com/YeJiu97/machine-learning-bookcamp-build-a-portfolio-of-real-life-projects) | Machine Learning | Completed | ⭐⭐⭐⭐       |
-| [python-for-data-science-a-hands-on-introduction](https://github.com/YeJiu97/python-for-data-science-a-hands-on-introduction) | Data Science     | Completed | ⭐⭐         |
-
-
 
 <!--
 **YeJiu97/YeJiu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
